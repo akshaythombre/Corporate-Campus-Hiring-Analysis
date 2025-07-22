@@ -62,4 +62,4 @@ This project analyzes corporate campus hiring trends for fresh graduates in Indi
 
 <img src =https://github.com/akshaythombre/Corporate-Campus-Hiring-Analysis/blob/main/Freshers%20Hiring.png>
 
-<img src =>
+<img src =https://github.com/akshaythombre/Corporate-Campus-Hiring-Analysis/blob/main/Job%20Overvies.png>
